@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <quiz>
 <question type="matching">
 	<name>
@@ -18,7 +18,7 @@
 	<subquestion>
 		<text>Premier item de la seconde paire</text>
 		<answer>
-			<text>Second item de la seconde paire</text>
+			<text>Seconde item de la seconde paire</text>
 		</answer>
 	</subquestion>
 	<shuffleanswers>true
