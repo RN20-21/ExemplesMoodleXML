@@ -12,13 +12,13 @@
 	<subquestion>
 		<text>Premier item de la première paire</text>
 		<answer>
-			<text>Seconde item de le première paire</text>
+			<text>Second item de le première paire</text>
 		</answer>
 	</subquestion>
 	<subquestion>
 		<text>Premier item de la seconde paire</text>
 		<answer>
-			<text>Seconde item de la seconde paire</text>
+			<text>Second item de la seconde paire</text>
 		</answer>
 	</subquestion>
 	<shuffleanswers>true
